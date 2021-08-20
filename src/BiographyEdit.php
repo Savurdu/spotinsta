@@ -11,7 +11,7 @@ $username = 'harun.t0';
 
 $password = '191202zeki1';
 
-$sizinemailiniz = 'htekes422@gmail.com';
+$sizinemailiniz = 'savurduuuu@gmail.com';
 
 $debug = false;
 
